@@ -1,5 +1,4 @@
-# javascript-quiz
-
+# GOOGLE-CLUB AND MICROSOFT-CAMPUS-CLUB
 ## Project Outline
 
 An interactive, timed JavaScript quiz that stores a high score leaderboard in local storage.
@@ -27,14 +26,14 @@ THEN I can save my initials and my score
 
 ## Link to Deployed Application
 
-https://stephje.github.io/javascript-quiz/
+
 
 ## Screenshots of Deployed Application
 
-![Deployed Website](./assets/images/startcard.png)
+![Deployed Website](./assets/images/.png)
 
-![Deployed Website 2](./assets/images/question.png)
+![Deployed Website 2](./assets/images/.png)
 
-![Deployed Website 3](./assets/images/scoresheet.png)
+![Deployed Website 3](./assets/images/.png)
 
-![Deployed Website 4](./assets/images/highscores.png)
+![Deployed Website 4](./assets/images/.png)
