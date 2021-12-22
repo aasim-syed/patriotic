@@ -43,7 +43,43 @@ const questions = [
       "Which viceroy is regarded as the catalyst of Indian nationalism?",
     options: ["1.  Lord Curzon", "2.   Lord Canning", "3. Lord Dalhousie", "4.  Lord Minto"],
     answer: "1.Lord Curzon",
-  }
+  },
+  {
+    questionText:
+      "The capital of Chola Kingdom as?",
+    options: ["1.Tanjore", "2.   Badami", "3.Vatapi", "4.  Kanchi"],
+    answer: "1.Tanjore",
+  },
+  {
+    questionText:
+      "Which act provided for right to vote to women?",
+    options: ["1.Indian Councils Act, 1909", "2.   Government of India Act, 1919", "3.Government of India Act, 1935", "4.   Indian Independence Act, 1947"],
+    answer: "2.Government of India Act, 1919",
+  },
+  {
+    questionText:
+      "Which city saw the formation of most political associations in the country in the early 1800s?",
+    options: ["1. Bombay", "2. Calcutta", "3. Madras", "4. All of the above"],
+    answer: "4.All of the above",
+  },
+   {
+    questionText:
+      "When did the first Congress session take place in India?",
+    options: ["1. 1885", "2. 1888", "3. 1838", "4. 1888"],
+    answer: "1.1885",
+  },
+   {
+    questionText:
+      "Who was the first president of the Indian National Congress?",
+    options: ["1. WC Banerjee", "2.  AO Hume", "3. Lala Lajpat Rai", "4. NONE"],
+    answer: "1.WC Banerjee",
+  },
+   {
+    questionText:
+      "When did the first Swadeshi Movement take place in India?",
+    options: ["1. 1905", "2.  1999", "3. 1989", "4. NONE"],
+    answer: "1.1905",
+  },
 ];
 
 //select each card div by id and assign to variables
