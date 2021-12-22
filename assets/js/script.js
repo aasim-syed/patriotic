@@ -3,7 +3,7 @@ const questions = [
   {
     questionText: "Which of the following  provision was not included in the Nehru Report:",
     options: ["1. India must be given Dominion status", "2. The Governor General must be only the constitutional head", "3. There was to be no separate electorate", "4.  Diarchy should be introduced both at the centre as well as provinces"],
-    answer: "4.  Diarchy should be introduced both at the centre as well as provinces",
+    answer: "4. Diarchy should be introduced both at the centre as well as provinces",
   },
   {
     questionText: "What was the another name of 'Pledge of Indian Independence'.",
@@ -79,6 +79,12 @@ const questions = [
       "When did the first Swadeshi Movement take place in India?",
     options: ["1. 1905", "2.  1999", "3. 1989", "4. NONE"],
     answer: "1.1905",
+  },
+  {
+    questionText:
+      "Which of the following led to the growth of national consciousness in the country?",
+    options: ["1. Western Education", "2.Political Unity", "3.Economic Policies of British", "4. ALL OF ABOVE"],
+    answer: "4.ALL OF ABOVE",
   },
 ];
 
